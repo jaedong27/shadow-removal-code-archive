@@ -9,7 +9,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from itertools import product, chain
-from scipy.misc import lena
+#from scipy.misc import lena
 #from sklearn.externals.joblib import Parallel, delayed
 
 
