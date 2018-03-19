@@ -24,8 +24,8 @@ from fail_detect import fail_detect
 import cppio
 import filterbank
 
-from color_solver import color_solver
-
+#from color_solver import color_solver
+import color_solver
 
 OPTIONS_COMMON = ["train", "test", "finest_scale", "n_scales", "scale_step",
 "feature_intensity", "feature_gradient_orientation",
